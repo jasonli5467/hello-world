@@ -1,4 +1,4 @@
 # hello-world
 A tutorial repository
 
-Hi, dthis is for tutorial step by Github.
+Hi, this is for tutorial step by Github.
